@@ -3,6 +3,9 @@ FULL Project
 
 ### The source code, dataset split files, and related experimental materials are under preparation
 
-+ IIFM与DTPA的实现放在了对应的文件中
-+ CAFP可参考模型yaml配置文件CAFM的灵感来自ASF-YOLO的Zoom_cat，相关的改动可以查看我们的论文
-+ 我们的项目基于ultralytics库进行构建具体的版本号为8.3.9,python 3.10.16,Centos7 RTX3080 10GB,后续将上传requirments.txt文件说明全部环境配置
+## Implementation and Environment
+
+The proposed IIFM and DTPA modules are implemented in the corresponding source files. The CAFP structure can be referenced from the model YAML configuration file. The design of CAFP is inspired by the `Zoom_cat` operation in ASF-YOLO, and the detailed structural modifications are discussed in our manuscript.
+
+The project is developed based on the Ultralytics framework. The experimental environment used in this study includes Ultralytics 8.3.9, Python 3.10.16, CentOS 7, and an NVIDIA RTX 3080 GPU with 10 GB memory. The complete environment configuration will be provided in a `requirements.txt` file in a subsequent update.
+
