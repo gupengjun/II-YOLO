@@ -1,0 +1,9 @@
+train: ../../../Flow-img-seg/train_out/images  # path + train
+val: ../../../Flow-img-seg/val_out/images # path + val
+test: ../../../Flow-img-seg/test_out/images # path + test
+
+# number of classes
+nc: 1
+
+# class names
+names: ['bottle']

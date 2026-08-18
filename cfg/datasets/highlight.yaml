@@ -1,0 +1,10 @@
+# 本项目下的dataset中的数据集仅供大家参考存放格式和调试代码是否能跑通
+# dataset path
+train: /root/project/ultralytics-yolo11-main/dataset/yolo_dataset/train/images
+val: /root/project/ultralytics-yolo11-main/dataset/yolo_dataset/val/images
+
+# number of classes
+nc: 41
+
+# class names
+names: ['bicycleCrossing', 'school', 'roadworkAhead', 'workersAhead', 'oneWay', 'endRoadwork', 'keepRight', 'speedLimit45', 'pedestrianCrossing', 'doNotBlock', 'doNotEnter', 'noLeftTurn', 'noUTurn', 'speedLimit25', 'stop', 'laneEnds', 'signalAhead', 'speedLimit30', 'keepLeft', 'addedLane', 'doNotStop', 'exitSpeedAdvisory25', 'exitSpeedAdvisory30', 'exitSpeedAdvisory45', 'speedLimit55', 'merge', 'rampSpeedAdvisory30', 'rampSpeedAdvisory25', 'shiftLeft', 'shiftRight', 'turnRight', 'speedLimit55Ahead', 'speedLimit65', 'noLeftOrUTurn', 'noRightTurn', 'yield', 'curveRightOnly', 'speedLimit35', 'curveLeftOnly', 'curveLeft', 'speedLimit40']

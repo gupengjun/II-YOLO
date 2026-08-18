@@ -1,0 +1,4 @@
+# ninja log v7
+2	24721	1760275341895675527	/root/project/ultralytics-yolo11-main/ultralytics/nn/extra_modules/DCNv4_op/build/temp.linux-x86_64-3.10/root/project/ultralytics-yolo11-main/ultralytics/nn/extra_modules/DCNv4_op/src/vision.o	9f04e94e205f1030
+1	138199	1760275341894675516	/root/project/ultralytics-yolo11-main/ultralytics/nn/extra_modules/DCNv4_op/build/temp.linux-x86_64-3.10/root/project/ultralytics-yolo11-main/ultralytics/nn/extra_modules/DCNv4_op/src/cuda/dcnv4_cuda.o	c3b634d56163ef95
+1	314906	1760275341894675516	/root/project/ultralytics-yolo11-main/ultralytics/nn/extra_modules/DCNv4_op/build/temp.linux-x86_64-3.10/root/project/ultralytics-yolo11-main/ultralytics/nn/extra_modules/DCNv4_op/src/cuda/flash_deform_attn_cuda.o	f4d3ee67f6643fc9

@@ -1,0 +1,5 @@
+train:  /root/project/ultralytics-yolo11-main/YOLO_dataset/train/images/
+val: /root/project/ultralytics-yolo11-main/YOLO_dataset/test/images/
+test: /root/project/ultralytics-yolo11-main/YOLO_dataset/test/images/
+nc: 2
+names: ['bottle', 'carton']

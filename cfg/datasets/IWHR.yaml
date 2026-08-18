@@ -1,0 +1,7 @@
+
+nc: 1
+train: /root/project/ultralytics-yolo11-main/IWHRDataset/train/images
+val: /root/project/ultralytics-yolo11-main/IWHRDataset/val/images
+test: /root/project/ultralytics-yolo11-main/IWHRDataset/test/images
+
+names: ['floater']
