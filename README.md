@@ -98,7 +98,7 @@ val: images/val
 test: images/test
 
 names:
-  0: floating-waste
+  0: bottle
 ```
 
 The two datasets used in this project are currently available from the following Google Drive mirrors:
