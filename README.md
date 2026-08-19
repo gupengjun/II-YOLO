@@ -105,8 +105,8 @@ The two datasets used in this project are currently available from the following
 
 | Dataset | Download |
 |---|---|
-| floating-waste-I-enhanced | [Download ZIP from Google Drive](https://drive.google.com/file/d/1UUwzmAW2hFOMQSQWIROfQHgKE4PCAfpv/view?usp=drive_link) |
-| flow-img | [Download ZIP from Google Drive](https://drive.google.com/file/d/19Ydvu6ONXfDqSPQHq-0pfGq00FcmhYnQ/view?usp=drive_link) |
+| floating-waste-I-enhanced | [Download](https://orca-tech.cn/datasets/FloW/FloW-Img) |
+| flow-img | [Download](https://github.com/wangruichen01/FloatingWaste-I) |
 
 After downloading, extract the archives and update the `path` field in the corresponding dataset YAML file. These Google Drive URLs are convenient download mirrors rather than immutable archival identifiers. Permanent dataset DOI link(s) will be added after the datasets and the exact code release used in the study have been archived in a DOI-issuing repository such as Zenodo.
 
